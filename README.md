@@ -12,3 +12,5 @@ Here are the steps
 enjoy 😊
 
   <a href="https://repl.it/github/Monster-Bunny/Discord-Bot-Animat-Profile-Photo"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+
+  # NoteNest
